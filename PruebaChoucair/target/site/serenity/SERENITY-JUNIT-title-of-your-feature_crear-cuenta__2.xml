@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="20.61" timestamp="2021-01-04T02:01:34.294-05:00[America/Bogota]"><testcase name="Crear cuenta"><error message="Arity mismatch: Step Definition 'com.choucair.creacion.licenciaOffice.definition.llenar_todos_lo_campos_de_informacion_personal(DataTable) in file:/C:/Users/aquinterom/eclipse-workspace/licenciaOffice/target/test-classes/' with pattern [^Llenar todos lo campos de informacion personal$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. &#10;Step: And Llenar todos lo campos de informacion personal" type="cucumber.runtime.CucumberException">Arity mismatch: Step Definition 'com.choucair.creacion.licenciaOffice.definition.llenar_todos_lo_campos_de_informacion_personal(DataTable) in file:/C:/Users/aquinterom/eclipse-workspace/licenciaOffice/target/test-classes/' with pattern [^Llenar todos lo campos de informacion personal$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
+Step: And Llenar todos lo campos de informacion personal</error><system-err>Arity mismatch: Step Definition 'com.choucair.creacion.licenciaOffice.definition.llenar_todos_lo_campos_de_informacion_personal(DataTable) in file:/C:/Users/aquinterom/eclipse-workspace/licenciaOffice/target/test-classes/' with pattern [^Llenar todos lo campos de informacion personal$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
+Step: And Llenar todos lo campos de informacion personal&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
